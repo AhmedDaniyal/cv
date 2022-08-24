@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.d88daee8.css",
+    "main.js": "/cv/static/js/main.635b557b.js",
+    "static/media/bg-1.jpg": "/cv/static/media/bg-1.c6e4ceb4e5792e500d19.jpg",
+    "static/media/daniyal.jpg": "/cv/static/media/daniyal.0e0ffad7857a38d174c1.jpg",
+    "static/media/client no4.jpg": "/cv/static/media/client no4.348f5c363140cc174ef7.jpg",
+    "static/media/Capture.png": "/cv/static/media/Capture.9b5f6dc35af1213192a7.png",
+    "static/media/portfolio5.png": "/cv/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Resume.pdf": "/cv/static/media/Resume.41e4fe7627639bb7fcf4.pdf",
+    "static/media/portfolio2.jpg": "/cv/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/cv/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/cv/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/cv/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/cv/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/client no 32.JPG": "/cv/static/media/client no 32.54b0d648c3d9daa2b3e3.JPG",
+    "static/media/client no1.JPG": "/cv/static/media/client no1.e7203aa64f4b695169aa.JPG",
+    "index.html": "/cv/index.html",
+    "main.d88daee8.css.map": "/cv/static/css/main.d88daee8.css.map",
+    "main.635b557b.js.map": "/cv/static/js/main.635b557b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d88daee8.css",
+    "static/js/main.635b557b.js"
+  ]
+}
